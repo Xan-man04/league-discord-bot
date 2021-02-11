@@ -1,1 +1,1 @@
-Worker: java bin/xan/League/League.java
+Worker: java src/xan/League/League.java
